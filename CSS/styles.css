@@ -4,7 +4,7 @@
    position: absolute;
    top: 15vh;
    width: 400px;
-   height: 400px;
+   height: 425px;
    background: #ffff;
    padding: 30px;
    border-radius: 10px;
@@ -12,11 +12,31 @@
 }
 
 .button {
-    color: #ffcc66;
-    background: #ffcc66;
+    background: lightgray;
+    color: black;
+    
+}
+
+.myButton {
+    /*background: darkgoldenrod;*/
+    color: rgb(87, 120, 211);
 }
 
 image: url(https://via.placeholder.com/105/31);
 
 <img src="https://via.placeholder.com/105/31" alt="placeholder.com">;
 
+
+/*.button {
+    margin-left: 121px;
+    margin-top: 10px;
+    width: 84px;
+    height: 45px;   
+    background: ,lightgray;
+    border: none;
+    color: white;   
+    font-size:14px;
+    font-weight:700;
+     
+
+}
